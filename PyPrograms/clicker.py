@@ -1,6 +1,6 @@
 import pyautogui as pu
 import time
-
+# my clicker function
 def clicker():
   button = input("Do u want key or mouse? k/m: ")
   if button == 'k':
